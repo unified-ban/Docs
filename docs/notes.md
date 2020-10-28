@@ -7,7 +7,7 @@ Notes can be used to store big texts, links and other stuff in simple hashtag. T
 the content inside it.
 
 ## Permissions
-All administrators in you group and unified/ban operators can perform this command.
+All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
 ```
