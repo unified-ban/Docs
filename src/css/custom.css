@@ -17,6 +17,44 @@
   --ifm-code-font-size: 95%;
 }
 
+/* Fira Sans */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700;900&display=swap');
+
+/* Heebo */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;900&display=swap');
+
+/* Material Icons */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+html {
+  font: normal 1rem / 1.625rem Heebo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+  box-shadow: 1px 2px 4px 0 rgba(0,0,0,.09);
+  padding: 0;
+  height: auto;
+  height: 2.9rem;
+}
+
+.navbar__inner {
+  max-width: 1510px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.navbar__logo {
+  height: 32px;
+}
+
+.navbar__link {
+  padding: 10px 8px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 13px;
+  position: relative;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
@@ -26,4 +64,23 @@
 
 html[data-theme='dark'] .navbar__logo {
   filter: brightness(10);
+}
+
+.hero--primary {
+  background-color: #f6f6f6;
+  color: #191919;
+}
+
+.hero .button--secondary {
+  box-shadow: 0 25px 50px -12px rgb(79, 86, 95);
+}
+
+[data-theme="dark"] header.hero.hero--primary.heroBanner_src-pages- {
+  background-color: #2b2d2f;
+  color: #fff;
+}
+
+code {
+  background: #465456;
+  color: #00fff5;
 }
