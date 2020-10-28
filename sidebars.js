@@ -8,7 +8,14 @@ module.exports = {
     Features: [
         'badwords',
         'notes',
-        'safegroups'
+        'safegroups',
+        'welcome',
+        'pin'
+    ],
+    Contribute: [
+        'bug',
+        'feature',
+        'translate',
     ],
   },
 };

@@ -42,16 +42,16 @@ This command is defined in the file `/Bot/Command/SetWelcome.cs`.
 We can add custom buttons to the welcome message. This via the `/addwelcomebutton` command.
 
 ### Syntax
-``
+```
 /addwelcomebutton {button_name} {button_link}
-``
+```
 
 where:
 - `{button_name}` is the text displayed on button
 - `{button_link}` is the link where the button points to
 
 ### Examples
-We want to display a button that point to out Network channel:
+We want to display a button that point to our Network channel:
 
 ```
 /addwelcomebutton Network https://t.me/unifiednet
@@ -65,7 +65,7 @@ To remove a button from the welcome message, just use the `/removewelcomebutton`
 ```
 
 ### List all buttons
-We can use the `/welcomebuttons` ti display a list with all buttons:
+We can use the `/welcomebuttons` command to display a list with all buttons:
 
 ```
 /welcomebuttons
