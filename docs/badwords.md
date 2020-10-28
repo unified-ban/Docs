@@ -1,5 +1,5 @@
 ---
-id: badword
+id: badwords
 title: Bad Words
 ---
 
@@ -17,6 +17,9 @@ Where
 - `{record_name}` is the name of the rule (not the word to be censored)
 - `{words space separated}` are one or more words to be censored. Be careful, adding more than one word in the same 
 rule, to block a message this must contain all the words we have entered.
+
+> Caution, this command will be replaced by `/addbad` in future versions
+> [Issue #62](https://github.com/unified-ban/Terminal/issues/61).
 
 ## Examples
 We need to block the `foo` word:
@@ -39,6 +42,9 @@ To remove a rule from the Bad words filter, you need to use the `/unbad` command
 ```
 
 where `{record_name}` is the name of the rule we want to remove.
+
+> Caution, this command will be replaced by `/removebad` in future versions
+> [Issue #62](https://github.com/unified-ban/Terminal/issues/61).
 
 ## List all bad words
 For better management, the list of bad words is only available through the Dashboard.

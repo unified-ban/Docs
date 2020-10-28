@@ -5,6 +5,10 @@ module.exports = {
         'setup',
         'dashboard'
     ],
-    Features: ['start'],
+    Features: [
+        'badwords',
+        'notes',
+        'safegroups'
+    ],
   },
 };

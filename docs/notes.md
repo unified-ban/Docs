@@ -47,11 +47,11 @@ To remove a specific note, you need to use the `/removenote` replying to a note:
 
 the bot will automatically recognize the unique id of the note and will proceed removing.
 
-> Attention, only the note in response will be removed, not all those with the same hashtag.
+> Caution, only the note in response will be removed, not all those with the same hashtag.
 
 ## List all notes
-In the current version is not possible to print a list with all notes. There is an 
-[issue](https://github.com/unified-ban/Terminal/issues/53) opened to implement this feature.
+In the current version is not possible to print a list with all notes. There is an issue opened to implement this 
+feature [Issue #53](https://github.com/unified-ban/Terminal/issues/53).
 
 ## For developers
 This command is defined in the file `/Bot/Command/AddNote.cs`.
