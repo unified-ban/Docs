@@ -11,7 +11,7 @@ slug: /
 unified/ban is an easy to use, secure and modern bot for your Telegram groups 
 and [much more](https://unifiedban.solutions).
 
-> The project was born in 2017 as a community driven blacklist for Telegram. Today it has over  
+> The project was born in 2017 as a community driven blacklist for Telegram. Today it count over  
 > **160,000 users** and is one of the largest security and management services for Telegram.
 
 Find news on our [Telegram](https://t.me/unifiedban_news) news channel.
