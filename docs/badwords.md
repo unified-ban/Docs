@@ -6,7 +6,7 @@ title: Bad Words
 The Bad words filter allows you to censor one or more words in a Telegram group.
 
 ## Permissions
-All administrators in you group and unified/ban operators can perform this command.
+All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
 ```
@@ -22,13 +22,13 @@ rule, to block a message this must contain all the words we have entered.
 > [Issue #62](https://github.com/unified-ban/Terminal/issues/61).
 
 ## Examples
-We need to block the `foo` word:
+We need to block the `foo` word. We can do this like that:
 
 ```
 /bad my_foo_rule foo
 ```
 
-Instead now we want to block the words `foo` & `bar`:
+Now, instead, we want to block the words `foo` & `bar`:
 
 ```
 /bad my_foo_bar_rule foo,bar
