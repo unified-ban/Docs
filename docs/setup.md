@@ -3,7 +3,7 @@ id: setup
 title: First setup
 ---
 
-There are a few steps required to start using the Telegram bot and they are all listed below.
+There are a few steps required to start using the Telegram bot and are all listed below.
 
 ## Administration
 First of all, add the official [@unifiedban_bot](https://t.me/unifiedban_bot) as administrator in the group where 
