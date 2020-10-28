@@ -6,7 +6,7 @@ title: Safe groups
 Safe groups can be used to allow users to cite usernames of external groups, bypassing spam filters.
 
 ## Permissions
-All administrators in you group and unified/ban operators can perform this command.
+All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
 ```
