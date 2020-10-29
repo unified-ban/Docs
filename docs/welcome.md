@@ -8,7 +8,7 @@ The bot can show a welcome message to every new user who joins your group.
 The welcome message can integrate an interactive keyboard with customizable buttons.
 
 ## Permissions
-All administrators in you group and unified/ban operators can perform this command.
+All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
 ```
@@ -39,7 +39,7 @@ operation can be performed from the [Dashboard](https://unifiedban.solutions).
 This command is defined in the file `/Bot/Command/SetWelcome.cs`.
 
 ## Welcome buttons
-We can add custom buttons to the welcome message. This via the `/addwelcomebutton` command.
+We can add custom buttons to the welcome message. This can be done via the `/addwelcomebutton` command.
 
 ### Syntax
 ```
