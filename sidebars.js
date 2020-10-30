@@ -16,6 +16,7 @@ module.exports = {
         'pin',
         'rm',
         'safegroups',
+        'start',
         'welcome',
     ],
     Contribute: [
