@@ -4,6 +4,7 @@ module.exports = {
         'start',
         'setup',
         'dashboard',
+        'privacy',
     ],
     Features: [
         'announce',
