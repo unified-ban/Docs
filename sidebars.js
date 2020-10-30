@@ -8,11 +8,14 @@ module.exports = {
     Features: [
         'announce',
         'badwords',
+        'check',
+        'get',
+        'kick',
         'notes',
+        'pin',
+        'rm',
         'safegroups',
         'welcome',
-        'pin',
-        'check',
     ],
     Contribute: [
         'bug',
