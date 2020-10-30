@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     "Getting Started": [
-        'start',
+        'index',
         'setup',
         'dashboard',
         'privacy',
