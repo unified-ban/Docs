@@ -41,4 +41,4 @@ We ask you not to comment further on the reports to receive an answer. Each issu
 
 The priority of the reports is assigned by the developers themselves. Under each report there are ** emojis **, to 
 give greater importance to the report it is possible to invite people with the same problem to participate by adding 
-one or more emojis.
+frone or more emojis.

@@ -1,7 +1,5 @@
-```yaml
 id: announce
 title: Announce
-```
 
 Our bot integrates an announcement system, useful for communicating important notices to the members of your group.
 
