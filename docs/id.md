@@ -3,9 +3,11 @@ id: id
 title: Id
 ```
 
-The Id command is used to check if a user is a certified unified/ban operator. As an operator he can perform maintenance and give support.
+The Id command is used to check if a user is a certified unified/ban operator. As an operator he can perform 
+maintenance and give support.
 
-> **Warning**: always use this command if someone says it's a unified/ban operator. Trusting him without checking can create serious damage to your group.
+> **Warning**: always use this command if someone says it's a unified/ban operator. Trusting him without checking can 
+> create serious damage to your group.
 
 ## Permissions
 
@@ -25,7 +27,8 @@ If, when replying to a message, the command sends this message:
 As an operator he can perform maintenance and support.
 ```
 
-everything is OK, the user is an operator. If not, the bot will say that the user is not an operator, prompting you to use the "/report" command if needed.
+everything is OK, the user is an operator. If not, the bot will say that the user is not an operator, prompting you 
+to use the "/report" command if needed.
 
 ```
 @username is not a certified unified/ban operator. ⚠️

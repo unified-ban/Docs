@@ -84,3 +84,8 @@ code {
   background: #465456;
   color: #00fff5;
 }
+
+.featureImage_src-pages-,.featureImage_3Xqx {
+  height: 200px !important;
+  width: 280px !important;
+}

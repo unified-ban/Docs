@@ -3,14 +3,16 @@ module.exports = {
     "Getting Started": [
         'start',
         'setup',
-        'dashboard'
+        'dashboard',
     ],
     Features: [
+        'announce',
         'badwords',
         'notes',
         'safegroups',
         'welcome',
-        'pin'
+        'pin',
+        'check',
     ],
     Contribute: [
         'bug',

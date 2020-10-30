@@ -19,27 +19,27 @@ module.exports = {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
-          position: 'left',
+          position: 'right',
+        },
+        {
+          href: 'https://unifiedban.solutions/Faq',
+          label: 'FAQ',
+          position: 'right',
         },
 	      {
           href: 'https://t.me/unifiedban_news',
           label: 'News',
-          position: 'left',
+          position: 'right',
         },
 	      {
           href: 'https://unifiedban.solutions/SignIn',
           label: 'Dashboard',
           position: 'right',
         },
-        {
-          href: 'https://github.com/unified-ban/',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Community',
