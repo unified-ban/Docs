@@ -18,9 +18,11 @@ data belongs to)
 - we don't save any messages from your groups (because they are not essential to the functioning of a management bot 
 like ours or a competitor)
 - we have been requested over and over again to allow the use of the username in the commands (ex. 
-`/ban username`, `/kick username`), we have studied and applied a solution respectful of privacy, i.e. creating a 
-volatile username cache, if this is present in the bot's memory you can use it in commands. At each reboot, the 
-cache is cleared and then **destroyed without leaving any traces**
+`/ban username`, `/kick username`), we have studied and applied a solution respectful of privacy: we created a volatile 
+username cache. With every processed message we fill the temporary cache with the tuple `user_id - username`. The 
+commands that accept the username as argument are checking in this cache if the user is known and if not then you 
+have an error message. At each shutdown or reboot the cache is lost and is never saved on file, database or any 
+external service.
 - the login in the dashboard is managed by Telegram servers, each session is maintained through a real-time 
 recalculation process using the key provided at login
 - we provide you with anonymous statistics of your group, based on the actions of the bot, without collecting user 
