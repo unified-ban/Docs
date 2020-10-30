@@ -6,6 +6,7 @@ module.exports = {
         'dashboard',
     ],
     Features: [
+        'announce',
         'badwords',
         'notes',
         'safegroups',
