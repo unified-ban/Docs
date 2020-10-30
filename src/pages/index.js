@@ -7,36 +7,36 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const features = [
-  {
+    {
+        title: 'For Developers',
+        imageUrl: 'img/undraw_docusaurus_tree.svg',
+        description: (
+            <>
+                Find out how to integrate your project with the unified/ban <code>API</code>.
+                Collaborate with us in development, with translations, ideas and pull requests.
+            </>
+        ),
+    },
+    {
     title: 'Learn the Telegram bot',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Find out all the commands of the bot and how to best configure it in 
+        Find out all the commands of the bot and how to best configure it in
         your Telegram group.
       </>
     ),
-  },
-  {
+    },
+    {
     title: 'Learn the Twitch Sync',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        All TwitchSync Plugin settings for unified/ban. Find out how to best 
+        All TwitchSync Plugin settings for unified/ban. Find out how to best
         configure it for your needs.
       </>
     ),
-  },
-  {
-    title: 'For Developers',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
-    description: (
-      <>
-        Find out how to integrate your project with the unified/ban <code>API</code>.
-        Collaborate with us in development, with translations, ideas and pull requests.
-      </>
-    ),
-  },
+    },
 ];
 
 function Feature({imageUrl, title, description}) {
