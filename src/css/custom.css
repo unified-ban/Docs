@@ -83,6 +83,8 @@ html[data-theme='dark'] .navbar__logo {
 code {
   background: #465456;
   color: #00fff5;
+  display: inline-table;
+  padding: 0 7px;
 }
 
 .featureImage_src-pages-,.featureImage_3Xqx {
