@@ -91,3 +91,7 @@ code {
   height: 200px !important;
   width: 280px !important;
 }
+
+.hero__title {
+  font-size: 2.6rem !important;
+}
