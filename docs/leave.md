@@ -1,0 +1,4 @@
+---
+id: leave
+title: Leave
+---

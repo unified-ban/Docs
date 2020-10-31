@@ -1,4 +1,4 @@
 ---
-id: feature
-title: Feature request
+id: feedback
+title: Feedback
 ---

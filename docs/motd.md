@@ -1,0 +1,4 @@
+---
+id: motd
+title: Motd
+---

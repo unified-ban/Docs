@@ -1,0 +1,4 @@
+---
+id: ban
+title: Ban
+---
