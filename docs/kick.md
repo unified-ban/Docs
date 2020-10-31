@@ -19,7 +19,7 @@ You can use `/kick` in two ways. One permits you to kick a user when replying to
 
 or, if the user is in unified/ban's cache, you can insert a username as the command value:
 
-```
+```bash
 /kick @username
 ```
 

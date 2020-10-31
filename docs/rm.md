@@ -14,14 +14,14 @@ All administrators in your group and unified/ban operators can use this command.
 
 You can delete a message by replying to it with:
 
-```
+```bash
 /rm
 ```
 
 If you want to delete the latest messages sent in your group, you can do it by specifying  the number of messages 
 that need to be deleted. If you want to delete the five latest messages, you can use `/rm` like this:
 
-```
+```bash
 /rm 5
 ```
 

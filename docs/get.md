@@ -20,13 +20,13 @@ You can use `/get` in two ways. One permits you to get info when replying to a m
 
 or, if the user is in unified/ban's cache, you can insert a username as the command value:
 
-```
+```bash
 /get @username
 ```
 
 The message output will be like this:
 
-```
+```bash
 [Report]
 
 Requested information:

@@ -11,7 +11,7 @@ The welcome message can integrate an interactive keyboard with customizable butt
 All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
-```
+```bash
 /setwelcome {text}
 ```
 
@@ -27,7 +27,7 @@ Some variables can be used in `{text}` to obtain dynamic messages:
 ## Examples
 We want to just say hello to the new user:
 
-```
+```bash
 /setwelcome Hi, {{from_username}}! Welcome to {{chat_title}}!
 ```
 
@@ -42,7 +42,7 @@ This command is defined in the file `/Bot/Command/SetWelcome.cs`.
 We can add custom buttons to the welcome message. This can be done via the `/addwelcomebutton` command.
 
 ### Syntax
-```
+```bash
 /addwelcomebutton {button_name} {button_link}
 ```
 
@@ -53,21 +53,21 @@ where:
 ### Examples
 We want to display a button that point to our Network channel:
 
-```
+```bash
 /addwelcomebutton Network https://t.me/unifiednet
 ```
 
 ### Reverse
 To remove a button from the welcome message, just use the `/removewelcomebutton`:
 
-```
+```bash
 /removewelcomebutton {button_name}
 ```
 
 ### List all buttons
 We can use the `/welcomebuttons` command to display a list with all buttons:
 
-```
+```bash
 /welcomebuttons
 ```
 

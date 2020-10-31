@@ -12,13 +12,13 @@ All administrators in your group and unified/ban operators can use this command.
 ## Syntax
 You can use `/ban` in two ways. One permits you to ban a user when replying to a message:
 
-```
+```bash
 /ban (in reply to a message)
 ```
 
 or, if the user is in unified/ban's cache, you can insert a username as the command value:
 
-```
+```bash
 /ban @username
 ```
 

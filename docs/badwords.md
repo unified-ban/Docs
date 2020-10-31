@@ -9,7 +9,7 @@ The Bad words filter allows you to censor one or more words in a Telegram group.
 All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
-```
+```bash
 /bad {record_name} {words space separated}
 ```
 
@@ -24,20 +24,20 @@ rule, to block a message this must contain all the words we have entered.
 ## Examples
 We need to block the `foo` word. We can do this like that:
 
-```
+```bash
 /bad my_foo_rule foo
 ```
 
 Now, instead, we want to block the words `foo` & `bar`:
 
-```
+```bash
 /bad my_foo_bar_rule foo,bar
 ```
 
 ## Reverse
 To remove a rule from the Bad words filter, you need to use the `/unbad` command:
 
-```
+```bash
 /unbad {record_name}
 ```
 

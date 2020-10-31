@@ -12,7 +12,7 @@ All users, only works in private chat.
 
 ## Syntax
 
-```
+```bash
 /start
 ```
 
@@ -20,7 +20,7 @@ The Start command doesn't have any kind of parameter or value.
 
 ## Output example
 
-```
+```bash
 I’m unified/ban and I can help you to manage and protect your groups.
 
 First, add me to your group administrators list.

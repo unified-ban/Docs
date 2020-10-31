@@ -11,7 +11,7 @@ All administrators in your group and unified/ban operators can perform this comm
 
 ## Syntax
 
-```
+```bash
 /pin
 ```
 
@@ -24,7 +24,7 @@ using the command.
 I did an important announcement in the group with a message. It can be whatever you want, a text message, a photo or 
 a video. To pin it, simply use the "Reply" function and write:
 
-```
+```bash
 /pin
 ```
 

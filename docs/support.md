@@ -11,7 +11,7 @@ All administrators in your group and unified/ban operators can perform this comm
 ## Syntax
 Just type the `/call` command to warn the operators:
 
-```
+```bash
 /call
 ```
 
@@ -42,14 +42,14 @@ Only unified/ban operators can perform this command.
 ### Syntax
 To start a support session you need to enter the desired chat and run the `/startsupport` command:
 
-```
+```bash
 /startsupport
 ```
 
 ### Reverse
 Once the support session has ended, it can be interrupted with the `/endsupport` command:
 
-```
+```bash
 /endsupport
 ```
 
