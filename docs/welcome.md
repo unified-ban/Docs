@@ -71,5 +71,5 @@ We can use the `/welcomebuttons` command to display a list with all buttons:
 /welcomebuttons
 ```
 
-## For developers
+### For developers
 This command is defined in the file `/Bot/Command/AddWelcomeButton.cs`.
