@@ -28,7 +28,7 @@ As an operator he can perform maintenance and support.
 ```
 
 everything is OK, the user is an operator. If not, the bot will say that the user is not an operator, prompting you 
-to use the "/report" command if needed.
+to use the `/report` command if needed.
 
 ```
 @username is not a certified unified/ban operator. ⚠️

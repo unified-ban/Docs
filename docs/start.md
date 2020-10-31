@@ -34,7 +34,8 @@ Check the correct operation by typing /check in your group.
 Everything is ready ☺️
 You can change my settings by typing /config in your group.
 There is an online dashboard where you can change my settings and keep track of my operation.
-Start using it by typing /sign in your group to enable your account and then visit https://unifiedban.solutions. Login through your Telegram account and… enjoy!
+Start using it by typing /sign in your group to enable your account and then visit https://unifiedban.solutions. 
+Login through your Telegram account and… enjoy!
 
 Any problem?
 Contact our support from the Support section into the Dashboard.
