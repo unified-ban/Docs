@@ -23,5 +23,8 @@ or, if the user is in unified/ban's cache, you can insert a username as the comm
 
 If you have the correct permissions as administrator, the user will be banned correctly.
 
+## Reverse
+If you want to unban an user for some reason, you can use the command /unban with the same syntax of the /ban command.
+
 ## For developers
-This command is defined in the file `/Bot/Command/Ban.cs`.
+/ban is defined in the file `/Bot/Command/Ban.cs`, and /unban is defined in the file `/Bot/Command/Unban.cs`.
