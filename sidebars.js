@@ -13,6 +13,7 @@ module.exports = {
         'blacklist',
         'captcha',
         'check',
+        'config',
         'echo',
         'enable',
         'feedback',
