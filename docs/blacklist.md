@@ -16,7 +16,7 @@ All users included in this list are reported in real time in our Telegram
 
 ## Terminology
 
-**We are explicitly against all forms of racism**.  On this basis, we disagree with those peaople who see (and 
+**We are explicitly against all forms of racism**.  On this basis, we disagree with those people who see (and 
 search for) racism everywhere and (for now) we do not intend to change our internal terminology (blacklist, 
 whitelist).
 
