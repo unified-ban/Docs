@@ -14,13 +14,27 @@ All users included in this list are reported in real time in our Telegram
 [Logs Channel](https://t.me/unifiedban_logs). Also you can see the list of the last 100 entries (with date, 
 [user_id](/docs/privacy) and reason) on our [website](https://unifiedban.solutions/Logs).
 
-### Terminology
+## Terminology
 
 **We are explicitly against all forms of racism**.  On this basis, we disagree with those peaople who see (and 
 search for) racism everywhere and (for now) we do not intend to change our internal terminology (blacklist, 
 whitelist).
 
 We have deployed all of our resources to real causes and we are ready to do it again and again.
+
+## Remove yourself from the list
+
+Once on this list it is difficult to get out. In any case, we offer everyone the opportunity to explain their 
+version of events.
+
+To request removal from the blacklist, you must contact a system administrator through one of the following channels:
+
+- [E-mail support](mailto:amministrazione@linuxhub.it) (preferred method)
+- [Telegram Support](https://t.me/unifiedban_group) (the conversation will be private)
+
+Repositories Issues **are not a valid support channel**.
+
+Public discussions and/or on channels not mentioned above will be ignored.
 
 ## The blacklist command
 
