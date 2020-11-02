@@ -8,7 +8,9 @@ Factor, etc.
 
 ## Permissions
 
-Only unified/ban operators can use this command.
+All administrators in your group and unified/ban operators can perform this command.
+
+> The bot will respond with more or less details based on the user's permissions.
 
 ## Syntax
 
