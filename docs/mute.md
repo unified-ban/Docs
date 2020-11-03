@@ -8,6 +8,9 @@ messages.
 
 > Unlike the ban, a limited user can remain in the group.
 
+There is an opened Issue ([#63](https://github.com/unified-ban/Terminal/issues/63)) with a request to provide a time 
+frame as a command parameter.
+
 ## Permissions
 
 All administrators in your group and unified/ban operators can use this command.
