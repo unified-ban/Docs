@@ -75,7 +75,7 @@ html[data-theme='dark'] .navbar__logo {
   box-shadow: 0 25px 50px -12px rgb(79, 86, 95);
 }
 
-[data-theme="dark"] header.hero.hero--primary.heroBanner_src-pages- {
+[data-theme="dark"] header.hero.hero--primary {
   background-color: #2b2d2f;
   color: #fff;
 }
@@ -83,9 +83,15 @@ html[data-theme='dark'] .navbar__logo {
 code {
   background: #465456;
   color: #00fff5;
+  display: inline-table;
+  padding: 0 7px;
 }
 
 .featureImage_src-pages-,.featureImage_3Xqx {
   height: 200px !important;
   width: 280px !important;
+}
+
+.hero__title {
+  font-size: 2.6rem !important;
 }

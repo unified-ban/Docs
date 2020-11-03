@@ -11,13 +11,13 @@ All administrators in your group and unified/ban operators can perform this comm
 
 ## Syntax
 
-```
+```bash
 /check
 ```
 
 If unified/ban is an administrator and has all the permissions it needs, you should see a message like the following:
 
-```
+```bash
 I have following permissions:
 Can delete messages: True
 Can ban users: True
@@ -28,7 +28,7 @@ My permissions are configured correctly! 👍🏼
 
 Else, you will see this, or something similar:
 
-```
+```bash
 I have following permissions:
 Can delete messages: False
 Can ban users: False

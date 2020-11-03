@@ -26,13 +26,13 @@ We can store multiple notes in one hashtag, just use the same hashtag with diffe
 ## Examples
 We want to store the phrase `I'm a good boy` in a note with the `#goodboy` hashtag:
 
-```
+```bash
 /addnote #goodboy I'm a good boy
 ```
 
 Now we want to store another note in the same hashtag:
 
-```
+```bash
 /addnote #goodboy You are a good boy
 ```
 
@@ -41,7 +41,7 @@ By sending the hashtag as a message, the bot will return both notes.
 ## Reverse
 To remove a specific note, you need to use the `/removenote` replying to a note:
 
-```
+```bash
 /removenote
 ```
 

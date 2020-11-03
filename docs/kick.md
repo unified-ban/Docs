@@ -11,7 +11,7 @@ All administrators in your group and unified/ban operators can use this command.
 
 ## Syntax
 
-You can use /kick in two ways. One permits you to kick a user when replying to a message:
+You can use `/kick` in two ways. One permits you to kick a user when replying to a message:
 
 ```bash
 /kick (in reply to a message)
@@ -19,7 +19,7 @@ You can use /kick in two ways. One permits you to kick a user when replying to a
 
 or, if the user is in unified/ban's cache, you can insert a username as the command value:
 
-```
+```bash
 /kick @username
 ```
 

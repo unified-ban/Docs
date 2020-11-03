@@ -1,29 +1,55 @@
 ---
 id: start
-title: Welcome
-sidebar_label: Welcome
-slug: /
+title: Start
 ---
 
-<span class="badge badge--secondary">Version: 3.5.0 (stable)</span>
-<br /><br />
+The Start command shows a brief introduction to the functionality of the bot and illustrates the basic steps to 
+properly configure it in a group.
 
-unified/ban is an easy to use, secure and modern bot for your Telegram groups 
-and [much more](https://unifiedban.solutions).
+## Permissions
 
-> The project was born in 2017 as a community driven blacklist for Telegram. Today it count over  
-> **160,000 users** and is one of the largest security and management services for Telegram.
+All users, only works in private chat.
 
-Find news on our [Telegram](https://t.me/unifiedban_news) news channel.
+## Syntax
 
-Our services are:
+```bash
+/start
+```
 
-- [Privacy friendly](https://t.me/unifiedban_news/41) first
-- Modern and Fast
-- Updated and maintained
-- [Open source](https://github.com/unified-ban/)
-- Customizable
-- Simple to use
+The Start command doesn't have any kind of parameter or value.
 
-All our services, from the Telegram bot, to the management of synchronization with Twitch (TwitchSync), 
-can be easily managed from our online [Dashboard](https://unifiedban.solutions/SignIn).
+## Output example
+
+```bash
+I’m unified/ban and I can help you to manage and protect your groups.
+
+First, add me to your group administrators list.
+Then, I need the following permissions:
+- Delete messages
+- Ban users
+
+Done?
+Check the correct operation by typing /check in your group.
+
+Everything is ready ☺️
+You can change my settings by typing /config in your group.
+There is an online dashboard where you can change my settings and keep track of my operation.
+Start using it by typing /sign in your group to enable your account and then visit https://unifiedban.solutions. 
+Login through your Telegram account and… enjoy!
+
+Any problem?
+Contact our support from the Support section into the Dashboard.
+
+Important:
+- All the operations are logged publicly @unifiedban_logs
+- News: @unifiedban_news
+- Network: @unifiednet
+- Official group: @unifiedban_group
+
+With love,
+Unified/ban
+```
+
+## For developers
+
+This command is defined in the file `/Bot/Command/Start.cs`.

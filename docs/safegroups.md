@@ -9,7 +9,7 @@ Safe groups can be used to allow users to cite usernames of external groups, byp
 All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
-```
+```bash
 /addsafe {username}
 ```
 
@@ -19,14 +19,14 @@ Where
 ## Examples
 We want to allow users to write the username `@unifiedban_news` in chat:
 
-```
+```bash
 /addsafe @unifiedban_news
 ```
 
 ## Reverse
 The `/remsafe` command can be used to remove an username from the safe list:
 
-```
+```bash
 /remsafe {username}
 ```
 

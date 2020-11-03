@@ -11,7 +11,7 @@ New announcements are automatically pinned in the chat, alerting all your member
 All administrators in your group and unified/ban operators can perform this command.
 
 ## Syntax
-```
+```bash
 /announce {text}
 ```
 
@@ -22,7 +22,7 @@ where:
 ## Example
 For some strange reason, we want to warn users that `The bread is baked`:
 
-```
+```bash
 /announce The bread is baked
 ```
 

@@ -1,0 +1,4 @@
+---
+id: rules
+title: Rules
+---
