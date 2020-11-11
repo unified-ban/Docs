@@ -1,7 +1,7 @@
-```yaml
+---
 id: id
 title: Id
-```
+---
 
 The Id command is used to check if a user is a certified unified/ban operator. As an operator he can perform 
 maintenance and give support.
