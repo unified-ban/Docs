@@ -7,7 +7,7 @@ The Non-Latin filter is a unified/ban filter that automatically deletes a messag
 
 ## Permissions
 
-All administrators in your group and unified/ban operators can configurate this command.
+All administrators in your group and unified/ban operators can configurate this filter.
 
 ## Examples
 
