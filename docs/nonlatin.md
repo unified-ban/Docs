@@ -1,5 +1,5 @@
 ---
-id: non_latin
+id: nonlatin
 title: Non-Latin Filter
 ---
 

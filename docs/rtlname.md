@@ -1,5 +1,5 @@
 ---
-id: rtl_name
+id: rtlname
 title: RTL Name filter
 ---
 
