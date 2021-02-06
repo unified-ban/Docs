@@ -7,6 +7,7 @@ module.exports = {
         'privacy',
     ],
     Features: [
+        'alias',
         'announce',
         'badwords',
         'ban',
@@ -21,6 +22,7 @@ module.exports = {
         'get',
         'help',
         'kick',
+        'invite',
         'leave',
         'motd',
         'mute',
