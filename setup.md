@@ -26,10 +26,10 @@ it up with the same permissions mentioned above.
 
 ### Permissions check
 To verify that you have configured the essential permissions correctly, type `/check` in your group chat, the bot will 
-reply with a [verification message](/docs/check).
+reply with a [verification message](docs/check).
 
 ## Configuration
-The simplest way to configure the bot is via the [interactive configuration menu](/docs/config).
+The simplest way to configure the bot is via the [interactive configuration menu](docs/config).
 
 In your group chat, type `/config` and the bot will return an interactive control keyboard with all the bot settings.
 
