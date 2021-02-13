@@ -12,7 +12,7 @@ In this menu you can activate or deactivate the bot features just by clicking on
 
 ## Buttons
 
-Here the list of the buttons available in this menu:
+Here is the list of buttons available in this menu:
 - [Instructions](unifiedban.solutions) (it will just link you the official site of the bot)
 - [Dashboard](dashboard)
 - [Welcome Message](welcome)
@@ -26,7 +26,7 @@ Here the list of the buttons available in this menu:
 - [Safe Group Control](safegroups)
 - [Blacklist](blacklist)
 - [Gate](gate)
-- [RTL Name Filter](rtlnames)
+- [RTL Name Filter](rtlname)
 - [Gate Schedule](gateschedule)
 - [Spam Action Limit Time](salt)
 - [Ask for Support](support)
