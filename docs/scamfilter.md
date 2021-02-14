@@ -2,6 +2,10 @@
 id: scamfilter
 title: Scam Filter
 ---
-![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
+You can enable this feature from [bot configuration command](config). 
 
-We're working on this... be patient!
+If enabled, the bot will compare any link sent in chat with a list of sites known for data theft. 
+
+## For developers
+
+This function is defined in the file `/Bot/`.

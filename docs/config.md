@@ -10,6 +10,11 @@ In this menu you can activate or deactivate the bot features just by clicking on
 - if the feature is activated it will show "✅" next to the function name
 - if the feature is disabled it will show "❌" next to the function name
 
+## Permissions
+
+All administrators in your group and unified/ban operators can perform this command.
+
+
 ## Buttons
 
 Here is the list of buttons available in this menu:
@@ -21,9 +26,9 @@ Here is the list of buttons available in this menu:
 - [BadWord Filter](badwords)
 - [Non Latin Filter](nonlatin)
 - [Flood Control](flood)
-- [Spam Name Control](spamname)
+- [Spam Name Control](spam)
 - [Scam Filter](scamfilter)
-- [Safe Group Control](safegroups)
+- [Safe Group Control](spam)
 - [Blacklist](blacklist)
 - [Gate](gate)
 - [RTL Name Filter](rtlname)
@@ -31,3 +36,6 @@ Here is the list of buttons available in this menu:
 - [Spam Action Limit Time](salt)
 - [Ask for Support](support)
 
+## For developers
+
+This command is defined in the file `/Bot/Command/Config.cs`.
