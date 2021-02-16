@@ -13,12 +13,12 @@ All administrators in your group and unified/ban operators can use this command.
 You can use `/gate` followed by the *open* or *close* to change its status:
 
 ```bash
-/ban open
+/gate open
 ```
 to allow everyone to send content
 
 ```bash
-/ban close
+/gate close
 ```
 
 to close the group.
