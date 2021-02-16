@@ -5,7 +5,7 @@ sidebar_label: Welcome
 slug: /
 ---
 
-<span class="badge badge--secondary">Version: 3.5.0 (stable)</span>
+<span class="badge badge--secondary">Version: 3.8.1 (stable)</span>
 <br /><br />
 
 unified/ban is an easy to use, secure and modern bot for your Telegram groups 
@@ -26,4 +26,4 @@ Our services are:
 - Simple to use
 
 All our services, from the Telegram bot, to the management of synchronization with Twitch (TwitchSync), 
-can be easily managed from our online [Dashboard](https://unifiedban.solutions/SignIn).
+can be easily managed from our online [Dashboard](https://unifiedban.solutions).

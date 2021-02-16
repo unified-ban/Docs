@@ -32,7 +32,7 @@ module.exports = {
           position: 'right',
         },
 	      {
-          href: 'https://unifiedban.solutions/SignIn',
+          href: 'https://dash.unifiedban.solutions',
           label: 'Dashboard',
           position: 'right',
         },
