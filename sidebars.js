@@ -45,6 +45,9 @@ module.exports = {
         'trust',
         'welcome',
     ],
+    TwitchSync: [
+        'twitch-setup'
+    ],
     Contribute: [
         'bug',
         'feature',
